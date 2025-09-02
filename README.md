@@ -1,41 +1,65 @@
-
 # Task_06_Deep_Fake
 
-## Overview
-This project converts my Task 5 narrative on Syracuse Women’s Lacrosse (2024 vs 2025) into an AI-generated interview (host + analyst). Deliverables include the final video, script, prompts, and a process log emphasizing workflow and tool choices (as requested).:contentReference[oaicite:4]{index=4}
+## 📌 Overview
+This repository contains my submission for **Research Task 6: Deep Fake**.  
+The objective was to take the narrative from **Task 5 (Syracuse Women’s Lacrosse 2024–2025 stats)** and transform it into a simulated **AI-generated interview** between a host and an analyst.  
 
-## Final Deliverable
-- **Video:** `video/final_interview.mp4` (screen recording of the conversation)
-- **Script:** `script/interview_script.md`
-- **Prompts:** `prompts/heygen_prompt.txt`, `prompts/tts_prompts.txt` (if used)
-- **Process log:** `process/process_log.md`
+The focus of this task is less on the polished final product and more on the **process**: experimenting with free AI tools, structuring workflow, and documenting challenges and workarounds.
 
-## Tools Tried
-- **HeyGen** (avatar video)
-- (Optional) **ElevenLabs / Edge Read Aloud** (TTS)
-- **Screen recorder:** Windows Game Bar / OBS / QuickTime
+---
 
-## Key Issue & Workaround (Important)
-- **Issue:** HeyGen’s fully interactive “multi-speaker” conversation requires a **paid** plan.
-- **Workaround used:** I configured two avatars and **screen-recorded** the alternating dialogue to produce a continuous interview. This preserves interactivity without incurring costs, consistent with the instruction to use **free/student resources**.:contentReference[oaicite:5]{index=5}
+## 🎬 Deliverables
+- **Video** → [`video/final_interview.mp4`](video.mp4)  
+- **Script** → [`script/interview_script.md`](script.md)  
+---
 
-## Workflow
-1. Drafted a concise Q&A script from Task 5 results.
-2. Set up two avatars in HeyGen; pasted dialogue with speaker labels.
-3. Previewed, adjusted pacing/pronunciations (e.g., “Syracuse” → *SIR-uh-kyooz*).
-4. **Screen-recorded** the conversation playback (due to paywall).
-5. Exported MP4 and organized repo (script, prompts, video, screenshots).
-6. Reflected on tool tradeoffs and ethics of synthetic media.
+## 🛠 Tools Used
+- **HeyGen (Quick Avatar Video)** → to generate avatars and assign dialogue.  
+- **Windows Screen Recorder (Win + Alt + R)** → to capture the conversation playback.  
+- **GitHub** → for version control and organizing outputs.
 
-## Ethics & Notes
-- Disclosed AI generation and limitations.
-- Used only publicly available/student-tier tools (no spend).:contentReference[oaicite:6]{index=6}
+---
 
-## How to Reproduce (Free Path)
-- Open HeyGen → Quick Avatar Video → add two avatars.
-- Paste `prompts/heygen_prompt.txt` line-by-line into alternating scenes.
-- Use a free screen recorder to capture playback.
-- (Optional) Replace voices via free TTS and upload audio as “voiceover.”
+## ⚠️ Key Issue & Workaround
+- **Issue:** HeyGen’s fully interactive two-speaker export is only available with a paid plan.  
+- **Workaround:** I created the interview using two avatars and alternating dialogue scenes, then **screen-recorded the playback** to produce the final video.  
+- **Reason:** This follows the assignment guideline to rely on **free/student resources** and to focus on documenting process over product.
 
-## Attribution
-- Dataset & analysis stem from my Task 5 work.
+---
+
+## 📄 Workflow
+1. Drafted a Q&A script based on Task 5 analysis.  
+2. Opened HeyGen → Quick Avatar Video → added two avatars (host + analyst).  
+3. Pasted alternating dialogue into scenes.  
+4. Screen-recorded the video since the export feature was locked.  
+5. Organized outputs into this repo (script, prompts, video, screenshots, documentation).  
+
+---
+
+## 🔑 Skills Practiced
+- Data storytelling (turning statistics into narrative dialogue)  
+- AI/ML tool use (avatars, TTS)  
+- Workflow design & documentation  
+- Version control with GitHub  
+- Reflection on limitations and ethical considerations of deepfake media  
+
+---
+
+## 📂 How to Reproduce (Free Path)
+1. Go to **HeyGen → Quick Avatar Video**.  
+2. Select **two avatars**.  
+3. Paste dialogue from `script.md'  
+4. Preview the conversation.  
+5. Use a free screen recorder (Windows/Mac) to capture playback.  
+6. Save as `final_interview.mp4`.  
+
+---
+
+## 📧 Submission Notes
+- Repository link submitted via email to **jrstrome@syr.edu**.  
+- Activity logged in the **Qualtrics progress survey** by **September 1st**.  
+
+---
+
+✨ *Prepared by:* **Tejas Mistry**  
+*Research Task 6 – Deep Fake Interview*
