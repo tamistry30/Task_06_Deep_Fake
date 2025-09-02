@@ -10,7 +10,7 @@ The focus of this task is less on the polished final product and more on the **p
 
 ## 🎬 Deliverables
 - **Video** → [`video.mp4`](video.mp4)  
-- **Script** → [`script.md`](script.md)  
+- **Script** → [`script.txt`](script.txt)  
 ---
 
 ## 🛠 Tools Used
@@ -48,7 +48,7 @@ The focus of this task is less on the polished final product and more on the **p
 ## 📂 How to Reproduce (Free Path)
 1. Go to **HeyGen → Quick Avatar Video**.  
 2. Select **two avatars**.  
-3. Paste dialogue from `script.md'  
+3. Paste dialogue from `script.txt'  
 4. Preview the conversation.  
 5. Use a free screen recorder (Windows/Mac) to capture playback.  
 6. Save as `final_interview.mp4`.  
