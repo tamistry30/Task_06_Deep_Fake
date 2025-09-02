@@ -1,7 +1,5 @@
 🎤 Deep Fake Interview Script
 
-[Opening Music / Intro Sound]
-
 Interviewer: Welcome to today’s sports spotlight! We’re diving into Syracuse University Women’s Lacrosse and comparing their performances in the 2024 and 2025 seasons. Joining us is our analyst who’s been studying the numbers closely. Thanks for being here!
 
 Interviewee: Thanks for having me! Excited to share what the data reveals about the team.
@@ -14,13 +12,13 @@ Interviewer: That’s quite a difference. Do the numbers suggest whether the tea
 
 Interviewee: Yes, the split is clear. In 2024, Syracuse was dominant at home, winning about 82% of their home games. Away from home, they still performed well, winning around 71%, but the comfort of the home field really gave them an edge.
 
-Interviewer: Were there any games that stood out—either as highlights or tough defeats?
+Interviewer: Were there any games that stood out ,either as highlights or tough defeats?
 
 Interviewee: Absolutely. On the tough side, the hardest defeat came against Boston College on April 28th, 2024. Syracuse lost 8–15 in that matchup—it was their largest margin of defeat. But on the positive side, the game against North Carolina on March 16th was a highlight. Nearly 3,000 fans showed up, and Syracuse delivered with a massive 20–5 win at home.
 
 Interviewer: Wow, quite a contrast between those two games. Looking at team performance overall, what do the stats tell us about offense and defense?
 
-Interviewee: The numbers show both areas declined in 2025, but offense took the bigger hit. In 2024, Syracuse averaged 15.2 goals per game. By 2025, that dropped to just 12.4. At the same time, their defense allowed more goals—about 9.7 per game in 2024 compared to 11.6 in 2025. So, scoring power fell, and defensive strength slipped a bit too.
+Interviewee: The numbers show both areas declined in 2025, but offense took the bigger hit. In 2024, Syracuse averaged 15.2 goals per game. By 2025, that dropped to just 12.4. At the same time, their defense allowed more goals about 9.7 per game in 2024 compared to 11.6 in 2025. So, scoring power fell, and defensive strength slipped a bit too.
 
 Interviewer: If you were in the coach’s shoes, what would you focus on heading into the next season?
 
@@ -28,4 +26,4 @@ Interviewee: I’d definitely focus on rebuilding the offense. The sharp drop in
 
 Interviewer: Great analysis. It really shows how the stats can tell a story about a team’s journey. Thanks so much for breaking this down!
 
-Interviewee: My pleasure—always exciting to see how the numbers connect to the game on the field.
+Interviewee: My pleasure, always exciting to see how the numbers connect to the game on the field.
