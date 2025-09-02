@@ -9,8 +9,8 @@ The focus of this task is less on the polished final product and more on the **p
 ---
 
 ## 🎬 Deliverables
-- **Video** → [`video/final_interview.mp4`](video.mp4)  
-- **Script** → [`script/interview_script.md`](script.md)  
+- **Video** → [`video.mp4`](video.mp4)  
+- **Script** → [`script.md`](script.md)  
 ---
 
 ## 🛠 Tools Used
